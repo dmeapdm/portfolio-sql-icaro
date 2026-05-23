@@ -1,0 +1,15 @@
+# Archivos temporales de LibreOffice / OpenOffice
+.~lock.*.odt#
+.~lock.*.ods#
+.~lock.*.doc#
+
+# Archivos del sistema operativo (Ubuntu/Linux y otros)
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Archivos de configuración de entornos de desarrollo (opcional por si usás VS Code)
+.vscode/
+.idea/
+*.log
